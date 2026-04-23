@@ -1,2 +1,2 @@
 # conflicto
-ejeplo
+
